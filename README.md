@@ -22,7 +22,6 @@ To estimate rental prices, our aim is to offer a data driven approach. The sugge
 ## Data Description 
 
 We were searching for a specific type of dataset for our project, which included all the listings of currently available places on a AirBnb marketplace. However, the website we were interested in, AirBnb, does not publicly release this type of data. Therefore, we had to turn to third-party websites such as Inside AirBnb to obtain information. These sites offer real-time data, but obtaining it was time-consuming process and came at a cost. As a result, we had to settle for a free dataset from Kaggle, which was the New York City AirBnb listings dataset.
-![image](https://github.com/niral-desai/Airbnb-Price-Prediction/assets/46837140/6b535999-5db7-46ec-beac-4ba158815fd5)
 
 Some of the important aspects of the dataset we will be looking forward to work with are:
 Last_scraped: Date on which the place is last rented out on.
@@ -33,5 +32,4 @@ Max_Nights: Maximum number of nights it can be rented out.
 Min_Nights: Minimum number of nights it can be rented out.
 Review_Score_Accuracy: Accurate review score.
 Property Type: The Type of rented place is.
-![image](https://github.com/niral-desai/Airbnb-Price-Prediction/assets/46837140/78a23e32-1003-44fe-b3c0-7ef5a1fd441e)
 
